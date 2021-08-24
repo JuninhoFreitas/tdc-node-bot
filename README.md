@@ -13,3 +13,9 @@
 - Analise do alvo
 - Decidindo o que será usado
 - Hands on!
+
+## Bibliotecas que serão usadas: 
+- telegraf ( Biblioteca para usar funções de bot do telegram )
+- dotenv ( gerenciar váriaveis de ambiente )
+- node-fetch ( fetch para node )
+- pm2 (Balancear carga)
